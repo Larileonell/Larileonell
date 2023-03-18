@@ -13,3 +13,11 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](larissaleonel98@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larileonell&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larileonell&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+💻 Tech Stack:
+<div style="display: inline_block><br/>
+            <img align="center" alt="html5" scrc="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />
+            <img align="center" alt="html5" scrc="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  />
+                                                  
+            </div>
