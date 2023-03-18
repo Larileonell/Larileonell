@@ -3,6 +3,7 @@
 
 
 🔭 Desenvolvedora back-End | | Backend (talvez)
+
 🌱 Atualmente, estudando Front-end (NodeJs)
 
 
