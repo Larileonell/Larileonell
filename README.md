@@ -15,9 +15,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larileonell&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larileonell&langs_count=8)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larileonell&hide=javascript,html)]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larileonell&hide=javascript,html)]
+<div align="center">
+  <a href="https://github.com/larileonell">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larileonell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larileonell&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
