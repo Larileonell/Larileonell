@@ -2,9 +2,9 @@
 
 
 
-🔭 Desenvolvedora back-End | | Javascript
+🔭 Desenvolvedora back-End 
 
-🌱 Atualmente, estudando back-end (Java)
+
 
 
 🌐 Socials:
