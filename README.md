@@ -14,8 +14,8 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](larissaleonel98@gmail.com)
 
 
-![](https://github-readme-stats.vercel.app/api?username=larileonell&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=larileonell&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=larileonell&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larileonell&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
